@@ -7,8 +7,6 @@ export const RickAndMortyApp = () => {
         <>
             <h1>RickAndMortyApp</h1>
             <Grid/>
-
-            
         </>
     )
 }
